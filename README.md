@@ -2,9 +2,9 @@
 **Nand to Tetris – I (ETCCNT301)**  
 School of Engineering & Technology, K.R. Mangalam University  
 
-**Student Name:* Aryan Kumar  
-**Roll Number:** 2501730431 
-**Personal Number K:** 31 
+**Student Name:* Harshita Saini  
+**Roll Number:** 2501010304
+
 
 ---
 
